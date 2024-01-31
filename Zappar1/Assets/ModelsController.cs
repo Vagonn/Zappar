@@ -24,7 +24,7 @@ public class ModelsController : MonoBehaviour
     void Start()
     {
         // SpawnNewModel(0);
-        Show(0);
+        // Show(0);
     }
 
     public void Next()
